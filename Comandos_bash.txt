@@ -2,4 +2,5 @@ ls --> lista arquivos
 cd --> Move entre diretórios 
 pwd --> mostra diretório de trabalho
 rm -rf .git/ --> Excluir a pasta git
-cat - mostra o que tem dentro do arquivo
+cat --> Exibe conteúdo do arquivo
+rm --> remove arquivo ou diretório
